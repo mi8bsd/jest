@@ -129,9 +129,6 @@ _ngbuddy_set_mac_hash_
 **/usr/local/share/ngbuddy/ngbuddy-mmd.awk**
 :    An alternative to **ngctl dot** that creates a Mermaid-JS color diagram of netgraph nodes.
 
-# EXAMPLES
-For examples and demo scripts, see **examples** at: https://github.com/bellhyve/netgraph-buddy
-
 **Example 1: Quickly deploy a VNET jail with netgraph using jail.conf.d**
 
 The following steps will configure a jail attached to the interface associated with the host's current default route, likely your LAN, using DHCP.
