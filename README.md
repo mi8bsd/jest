@@ -51,7 +51,3 @@ See
 redshift(1),
 xrandr(1)
 
-The original blog post about
-**sct**
-by Ted Unangst:
-[https://www.tedunangst.com/flak/post/sct-set-color-temperature](https://www.tedunangst.com/flak/post/sct-set-color-temperature)
